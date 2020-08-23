@@ -1,4 +1,4 @@
 
 # React Native multi-tab navigation bar app with MapBox 
 
-![MapBoxInReactNative](images/reactnativemaintab.png "MapBox with React Native ") 
+![MapBoxInReactNative](images/reactnativemainscreen.png "MapBox with React Native ") 
